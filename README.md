@@ -30,9 +30,7 @@ Building reliable systems, useful developer tools, and intelligent infrastructur
 | Project | What it does |
 | --- | --- |
 | [Conductor](https://github.com/mgm152002/Conductor) | Local-first orchestration for AI coding CLIs with durable workflows and permission gates |
-| [Cloud Saver](https://github.com/mgm152002/Cloud_Saver) | Cloud cost optimization and infrastructure intelligence across AWS, Azure, and GCP |
-| [InfraManager](https://github.com/mgm152002/InfraManager) | Unified infrastructure management across multiple cloud providers |
-| [Code Playground](https://github.com/mgm152002/codeplayground_backend) | Secure, container-based code execution for multiple languages |
+| [infra.ai](https://github.com/mgm152002/infra.ai_backend) | Agentic AI platform for intelligent infrastructure incident management |
 
 ## Tech I work with
 
